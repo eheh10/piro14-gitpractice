@@ -18,3 +18,5 @@ def hate():
             print(f'hate')
     else:
         cart_number[1] += 1
+
+    print('hi')

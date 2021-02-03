@@ -21,4 +21,4 @@ def hate():
 
 
 def hello():
-    pass
+    print('aaa')
